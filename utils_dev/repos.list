@@ -1,7 +1,0 @@
-produto|git@github.com:devcoffee/brerp.git|idempiere|development-brerp||org.idempiere.p2|
-cliente|git@github.com:devcoffee/fatec.git|fatec|development|-Didempiere.target=org.fatec.p2.targetplatform|org.fatec.p2.site|org.fatec.server.feature.feature.group
-plugin|git@github.com:devcoffee/remuneracao.git|remuneracao|main|-Didempiere.target=org.remuneracao.p2.targetplatform|org.remuneracao.p2.site|org.remuneracao.server.feature.feature.group
-plugin|git@github.com:devcoffee/pluggto.git|pluggto|development|-Didempiere.target=org.pluggto.p2.targetplatform|org.pluggto.p2.site|org.pluggto.server.feature.feature.group
-plugin|git@github.com:devcoffee/brerp-maplink.git|brerp-maplink|main|-Didempiere.target=org.brerp.maplink.p2.targetplatform|org.brerp.maplink.p2.site|org.brerp.maplink.server.feature.feature.group
-plugin|git@github.com:devcoffee/kdb_idempiere.git|kdb_idempiere|master-brerp||org.kdb.idempiere.extensions.p2|org.kdb.idempiere.extensions.server.feature.feature.group
-plugin|git@github.com:devcoffee/brerp-quicklog.git|brerp-quicklog|main|-Didempiere.target=org.brerp.quicklog.p2.targetplatform|org.brerp.quicklog.p2.site|org.brerp.quicklog.server.feature|.feature.group
