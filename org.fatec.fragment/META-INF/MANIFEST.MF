@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.fatec.fragment
+Bundle-SymbolicName: org.fatec.fragment
+Bundle-Version: 12.0.0.qualifier
+Bundle-Vendor: devCoffee
+Fragment-Host: org.adempiere.ui.zk;bundle-version="10.0.0"
+Automatic-Module-Name: org.fatec.fragment
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Jetty-WarFragmentFolderPath: /

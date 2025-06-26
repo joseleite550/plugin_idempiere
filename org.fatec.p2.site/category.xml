@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.fatec.server.feature_12.0.0.qualifier" id="org.fatec.server.feature" version="12.0.0.qualifier">
+      <category name="fatec.main"/>
+   </feature>
+   <category-def name="fatec.main" label="fatec main"/>
+</site>
